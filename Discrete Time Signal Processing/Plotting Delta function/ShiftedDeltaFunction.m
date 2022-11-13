@@ -1,7 +1,7 @@
 clc;
 clear all;
 close all;
-%%Ploting delta function%%
+%%Ploting shifted delta function%%
 n=-20:1:20;
 n0=-3
 x=zeros(1,length(n));
