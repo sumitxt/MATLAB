@@ -4,7 +4,9 @@ This <b>MATLAB SCRIPT</b> is used for <b>Plotting Delta Function</b>
 
 ### Result Screenshot
 <h6>Delta Function</h6>
+
 ![](./deltafunction.jpg)
 
 <h6>Shifted Delta Function</h6>
+
 ![](./shifteddeltafunction.jpg)
