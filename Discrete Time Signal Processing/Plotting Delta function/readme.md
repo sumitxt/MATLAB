@@ -3,4 +3,8 @@ The delta function is a generalized function that can be defined as the limit of
 This <b>MATLAB SCRIPT</b> is used for <b>Plotting Delta Function</b>
 
 ### Result Screenshot
+Delta Function
 ![](./deltafunction.jpg)
+
+Shifted Delta Function
+![](./shifteddeltafunction.jpg)
